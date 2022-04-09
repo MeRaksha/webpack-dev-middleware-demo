@@ -1,0 +1,31 @@
+{
+  "name": "webpack-dev-middleware-demo",
+  "version": "1.0.0",
+  "description": "demo for webpack dev middle ware",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "server": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MeRaksha/webpack-dev-middleware-demo.git"
+  },
+  "keywords": [
+    "webpack",
+    "webpack-dev-middleware"
+  ],
+  "author": "raksha",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MeRaksha/webpack-dev-middleware-demo/issues"
+  },
+  "homepage": "https://github.com/MeRaksha/webpack-dev-middleware-demo#readme",
+  "devDependencies": {
+    "express": "^4.17.3",
+    "html-webpack-plugin": "^5.5.0",
+    "webpack": "^5.72.0",
+    "webpack-cli": "^4.9.2",
+    "webpack-dev-middleware": "^5.3.1"
+  }
+}
